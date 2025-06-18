@@ -1,1 +1,1 @@
-Hi this is azure server
+Hi this is azure server.Sanket
